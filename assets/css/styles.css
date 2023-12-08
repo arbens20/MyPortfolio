@@ -950,21 +950,11 @@ ul li{
 
 @media (max-width: 450px){
 
-  .about .about-content .content2 .infoP .infos {
-    
-    /* display: inline-block;
-    margin-right: 28.625rem; */
-
-  }
-
-  .about .about-content .content2 .infoP .tinfos{
-    /* display: none; */
-    /* display: inline-block; */
-    
-   
-    /* margin-right: 28.625rem;
-    display: none; */
-  }
+ .about .about-img img{
+  margin-right: 25rem;
+  width: 40rem;
+  height: 40rem;
+ }
 
   .content2 .infoP .infos{
     margin-left: 2rem;
